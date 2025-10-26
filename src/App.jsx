@@ -5,6 +5,7 @@ import Home from './pages/Home';
 import Portfolio from './pages/Portfolio';
 import About from './pages/About';
 import Experience from './pages/Experience';
+import LeetCode from './pages/LeetCode';
 import Contact from './pages/Contact';
 import './styles/App.css';
 
@@ -27,6 +28,10 @@ function App() {
         
         <section id="portfolio" className="section">
           <Portfolio />
+        </section>
+        
+        <section id="leetcode" className="section">
+          <LeetCode />
         </section>
         
         <section id="contact" className="section">

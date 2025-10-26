@@ -77,6 +77,9 @@ export default function Home() {
           <a href="https://github.com/tharunK03" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
             <i className="fab fa-github"></i>
           </a>
+          <a href="https://leetcode.com/u/Tharun_03k/" target="_blank" rel="noopener noreferrer" aria-label="LeetCode">
+            <i className="fas fa-code"></i>
+          </a>
         </motion.div>
       </div>
       
