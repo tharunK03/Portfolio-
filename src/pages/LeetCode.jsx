@@ -11,7 +11,7 @@ const LeetCode = () => {
     const fetchLeetCodeStats = async () => {
       try {
         // Using multiple API sources for comprehensive stats
-        const response = await fetch('https://leetcode-stats-api.herokuapp.com/Tharun_03k');
+        const response = await fetch('https://leetcode-stats-api.herokuapp.com/Tharun03k');
         if (response.ok) {
           const data = await response.json();
           setStats(data);
