@@ -175,7 +175,7 @@ const LeetCode = () => {
               {/* Footer with link */}
               <div className="leetcode-card-footer">
                 <a 
-                  href="https://leetcode.com/u/Tharun_03k/" 
+                  href="https://leetcode.com/u/Tharun03k/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="leetcode-profile-link"
